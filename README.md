@@ -4,6 +4,15 @@ A comprehensive implementation of Microsoft Agent Framework featuring interactiv
 
 ![DevUI Screenshot](https://github.com/biswapm/Microsoft-Agent-Framework-Sample/blob/main/docs/devui-screenshot.png)
 
+## ⚠️ Disclaimer
+
+**This is an unsupported, experimental, and not an official Microsoft product.** It is provided "as is", without support and without any warranties, whether express or implied. This includes, but is not limited to, warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+In no event shall the authors or copyright holders be liable for any claims, damages, or other liabilities, whether in contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+> **⚠️ Important Note:**  
+> This is a sample demo application created for demonstration purposes. It is deployed into Microsoft Azure and intended solely for integration with Microsoft Agent Framework during prototyping or sample scenarios. This component is not part of any official Microsoft product and is not available for production use.
+
 ## 🚀 Features
 
 ### 🔬 **Research Agents**
