@@ -2,7 +2,8 @@
 
 A comprehensive implementation of Microsoft Agent Framework featuring interactive research agents, AI-powered blog generation, and sequential orchestration workflows. This sample demonstrates how to build production-ready AI agents using Azure AI Foundry and Azure OpenAI services with an integrated DevUI for testing and interaction.
 
-![DevUI Screenshot](https://github.com/biswapm/Microsoft-Agent-Framework-Sample/blob/main/docs/devui-screenshot.png)
+<img width="1276" height="670" alt="image" src="https://github.com/user-attachments/assets/b1cc793a-cb31-4fff-b61a-bac867d05620" />
+
 
 ## ⚠️ Disclaimer
 
